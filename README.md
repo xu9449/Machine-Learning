@@ -1,7 +1,7 @@
-# Machine-Learning  
+### Machine-Learning  
 ## What is machine learning    
 Arthur Samuel(chess)  
-### [checkers](https://en.wikipedia.org/wiki/Draughts):  (***)
+#[checkers](https://en.wikipedia.org/wiki/Draughts):  (***)
 gives computers the ability to learn without being explicitly progammed   
 -Supervised learning    
 "right answer" given  
@@ -11,4 +11,6 @@ Classification : Discrete valued output
 clustering algorithm, many places (google news)  
 cocktail party problem  (***)
 Octave faster  
-(reinforcement learning recommender systems  
+(reinforcement learning recommender systems )  
+
+Model and Cost Function
