@@ -23,4 +23,4 @@ Linear regression with one variable  -- Univariate linear regression
   
 Cost Function  
 ---
-cost function ( Square error function )  
+cost function ( Squared error function )  
