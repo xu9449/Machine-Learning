@@ -1,4 +1,4 @@
-### Machine-Learning  
+# Machine-Learning  
 What is machine learning  
 ---
 Arthur Samuel(chess)  
@@ -18,4 +18,9 @@ cocktail party problem  (Java)
 Model and Cost Function  
 ---
 Training set of housing prices  
-Training -- learning Algorithm -- h (hypothesis) function that maps from x's to y's   
+Training -- learning Algorithm -- h (hypothesis) function that maps from x's to y's    
+Linear regression with one variable  -- Univariate linear regression  
+  
+Cost Function  
+---
+cost function ( Square error function )  
