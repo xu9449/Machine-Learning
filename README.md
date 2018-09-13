@@ -1,5 +1,6 @@
 ### Machine-Learning  
-## What is machine learning    
+What is machine learning  
+---
 Arthur Samuel(chess)  
 #[checkers](https://en.wikipedia.org/wiki/Draughts): (Java)
 gives computers the ability to learn without being explicitly progammed   
@@ -14,6 +15,7 @@ cocktail party problem  (Java)
  Octave faster  
 (reinforcement learning recommender systems )  
 
-Model and Cost Function
+Model and Cost Function  
+---
 Training set of housing prices  
 Training -- learning Algorithm -- h (hypothesis) function that maps from x's to y's   
