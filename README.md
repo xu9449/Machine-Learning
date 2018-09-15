@@ -28,3 +28,15 @@ Cost Function
 cost function ( Squared error function )  
   
   ![image](https://github.com/xu9449/Machine-Learning/blob/master/IMG_6488.JPG)Welcome to the Machine-Learning wiki!
+   
+ GWU-LESSON1    
+ ---    
+ Machine learning setup    
+ label space C:   
+ Basic variations    
+ Cluster   
+ fearhers never fully describe the situation  
+ Lecture02  
+ ---
+ supervised machine learning  
+ no free lunch theorem
