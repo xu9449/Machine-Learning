@@ -1,4 +1,6 @@
-# Machine-Learning  
+# Machine-Learning 
+## Stanford  
+## GWU
 What is machine learning  
 ---
 Arthur Samuel(chess)  
