@@ -40,3 +40,7 @@ cost function ( Squared error function )
  ---
  supervised machine learning  
  no free lunch theorem
+ ### Loss Function  
+ * Squared loss  
+    Absolutelosee
+    
