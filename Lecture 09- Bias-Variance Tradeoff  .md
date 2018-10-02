@@ -8,7 +8,7 @@
 ### Expected Classifier. 
 
 **variance**   
-**Bias**  inherent to your model. 
+**Bias**  inherent to your model.   
 **Noise**
 
 
