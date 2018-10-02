@@ -10,5 +10,6 @@
 **variance**   
 **Bias**  inherent to your model.   
 **Noise**
-
-
+Expected Test Error = Variance + Noise + Bias^2  
+  
+[Reference: Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
