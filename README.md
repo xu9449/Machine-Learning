@@ -44,3 +44,6 @@ cost function ( Squared error function )
  * Squared loss  
     Absolutelosee
     
+      
+伯努利分布  
+
