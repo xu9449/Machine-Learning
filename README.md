@@ -1,4 +1,7 @@
-# Machine-Learning 
+# Machine-Learning   
+  
+数学知识补充：  
+泊松分布  ：  [甜在心头馒头店]（https://www.zhihu.com/question/26441147）
 ## Stanford  
 ## GWU
 What is machine learning  
