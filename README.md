@@ -1,7 +1,11 @@
 # Machine-Learning   
   
 数学知识补充：  
-泊松分布  ：  [甜在心头馒头店]（https://www.zhihu.com/question/26441147）
+泊松分布  ：  [甜在心头馒头店]（https://www.zhihu.com/question/26441147）  
+
+机器学习知识补充：  
+熵（Entropy）：  
+
 ## Stanford  
 ## GWU
 What is machine learning  
