@@ -1,11 +1,13 @@
 # Machine-Learning   
   
-数学知识补充：  
+数学知识补充：
+---
 泊松分布  ：  [甜在心头馒头店]（https://www.zhihu.com/question/26441147）  
 
-机器学习知识补充：  
-熵（Entropy）：    
+机器学习知识补充：
 ---
+### 熵（Entropy）：    
+
 [无痛的机器学习](https://zhuanlan.zhihu.com/p/30854084)  
 在某一个随机事件中，某个事件的不确定度越大，熵也就越大，那我们要搞清楚的信息量就越大。  
 x,y是相互独立的，h(x) + h(y) = h(x+y)   
