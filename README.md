@@ -21,9 +21,12 @@ x,y是相互独立的，h(x) + h(y) = h(x+y)
 
 5. h(x,y) = h(x) + h(y)。
 
-6. 信息量h(x) 反比于p(x) 。
-
-7.信息量是非负的。 ## Stanford  
+6. 信息量h(x) 反比于p(x) 。  
+7.信息量是非负的。 ## Stanford 
+  
+信息量 h（x）= -log(p(x))    
+H[x] = - p(x)log2(p(x)) - p(y)log2(p(y))
+ 
 ## GWU
 What is machine learning  
 ---
