@@ -2,7 +2,8 @@
   
 数学知识补充：
 ---
-泊松分布  ：  [甜在心头馒头店]（https://www.zhihu.com/question/26441147）  
+泊松分布  ：  [甜在心头馒头店]（https://www.zhihu.com/question/26441147）   
+概率质量函数（ probability mass function) [wiki](https://zh.wikipedia.org/wiki/%E6%A6%82%E7%8E%87%E8%B4%A8%E9%87%8F%E5%87%BD%E6%95%B0)
 
 机器学习知识补充：
 ---
