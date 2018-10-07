@@ -19,3 +19,7 @@ i.i.d independent and identical distribution 独立同分布
 maximumm likelihood estimate and that it is unbiased.   
 [link](https://onlinecourses.science.psu.edu/stat414/node/192/)  
 
+Perceptron   
+  
+Data: Bupa Liver Disorders data set . 
+347 rows and 7 columns   
