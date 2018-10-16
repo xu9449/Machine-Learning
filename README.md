@@ -39,6 +39,10 @@ H[x] = - p(x)log2(p(x)) - p(y)log2(p(y))
 信息熵增益越大，这个属性作为根结点就能使这棵树更简洁    
 
 ### 感知机（perceptron）  
+  
+### decision tree vs. logistic regression  
+a logistic regression model is searching for a single linear decision boundary in your features space, whereas a decision tree is essentially partitioning your feature space in to half-spaces using axis-aligned linear decision boundaries.  
+[reference](https://blog.bigml.com/2016/09/28/logistic-regression-versus-decision-trees/)
 
 
  
